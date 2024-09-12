@@ -6,7 +6,6 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
-import wandb # if you want to use wandb for logging data
 import time
 
 
